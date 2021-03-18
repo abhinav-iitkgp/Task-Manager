@@ -21,7 +21,7 @@ const {MongoClient , ObjectID}=require('mongodb')
 
 
 const connectionUrl = 'mongodb://127.0.0.1:27017'
-const databaseName = 'task-manager'//nead not be same as project name..just a name to DB
+const databaseName = 'task-manager'//nead not be same as project name..just aname to DB
 
 //-----Create-----
 
