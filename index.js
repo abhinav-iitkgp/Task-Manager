@@ -11,7 +11,7 @@ const port=process.env.PORT || 3000
 const app=express()
 
 
-// app.use((req,res,next)=>{//express middleware
+// app.use((req,res,next)=>{//express middlewar
     
 //     res.status(503).send('The site is under maintainence')
 // })
